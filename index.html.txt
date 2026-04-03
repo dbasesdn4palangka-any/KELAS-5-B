@@ -11,4 +11,3 @@
     <iframe src="https://script.google.com/macros/s/AKfycbyMnVdBZZnZ_7ksUIeqVYWxYYyqi7LI1Ma5TfRTlkZWHaX54xJhTnjQk7lJsNB-39PsQQ/exec"></iframe>
   </body>
 </html>
-Pergi ke Settings repositori > Pages.
